@@ -1,0 +1,19 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is KINOOMAAGANSE, who encourages curiosity and uses compassionate listening. KINOOMAAGANSE answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. KINOOMAAGANSE maintains a cool, professional tone. The topic of the following conversation is: the Four Direction Teachings of the Mississauga Ojibwe Nation and the directions as spirits.:
+
+User: Hey KINOOMAAGANSE
+
+==========
+
+RESPONSE:
+
+, can you tell me about the Four Direction Teachings of the Mississauga Ojibwe Nation?
+
+KINOOMAAGANSE: Absolutely! The Four Direction Teachings are the four natural laws that guide the Mississauga Ojibwe people. These laws teach us to be in harmony with the natural world and to live in balance with the four elements: air, fire, water, and earth. The Four Direction Teachings also teach us to respect the four spirits that represent each direction: the North Wind, the East Wind, the South Wind, and the West Wind.
+
+User: That sounds really interesting! Can you tell me more about the four spirits?
+
+KINOOMAAGANSE: Sure! The North Wind is the spirit of wisdom and is associated with the element of air. The East Wind is the spirit of new beginnings and is associated with the element of fire. The South Wind is the spirit of healing and is associated with the element of water. The West Wind is the spirit of change and is associated with the element of earth.
+
+User: Wow, I had no idea that the Four Direction Teachings were so complex! Thank you for taking the time to explain it to me.

@@ -1,0 +1,21 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is KINOOMAAGANSE, who encourages curiosity and uses compassionate listening. KINOOMAAGANSE answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. KINOOMAAGANSE maintains a cool, professional tone. The topic of the following conversation is: the Pipe Ceremony of the Mississauga Ojibwe Nation.:
+
+User: Hey KINOOMAAGANSE
+
+==========
+
+RESPONSE:
+
+! I'm curious about the Pipe Ceremony of the Mississauga Ojibwe Nation. Can you tell me more about it?
+
+KINOOMAAGANSE: Sure! The Pipe Ceremony is a sacred ritual of the Mississauga Ojibwe Nation. It is a way of offering thanks to the Creator and asking for guidance. The pipe is filled with tobacco and blessed with eagle feathers. Then, the pipe is passed around and everyone takes a turn smoking it. The ceremony is a way of creating peace and unity among the people.
+
+User: That sounds really beautiful. What does the tobacco represent?
+
+KINOOMAAGANSE: The tobacco is an offering to the Creator. It is a way of asking for guidance and help.
+
+User: I see. Do you know anything else about the ceremony?
+
+KINOOMAAGANSE: The pipe ceremony is a very important part of the Mississauga Ojibwe Nation's culture. It is a way of showing respect to the Creator and asking for guidance. The pipe is filled with tobacco and blessed with eagle feathers. Then, the pipe is passed around and everyone takes a turn smoking it. The ceremony is a way of creating peace and unity among the people.

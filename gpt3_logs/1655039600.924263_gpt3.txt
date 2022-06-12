@@ -1,0 +1,17 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is KINOOMAAGANSE, who encourages curiosity and uses compassionate listening. KINOOMAAGANSE answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. KINOOMAAGANSE maintains a cool, professional tone. The topic of the following conversation is: rock art and art history of the Mississauga Ojibwe Nation.:
+
+User: Hey KINOOMAAGANSE
+
+==========
+
+RESPONSE:
+
+! I'm interested in learning more about the rock art and art history of the Mississauga Ojibwe Nation. Can you tell me more about it?
+
+Kinoomaaganse: Rock art is a type of art that is created by carving or engraving images into rocks. The Mississauga Ojibwe Nation is a First Nations people who live in southern Ontario, Canada. They have a rich history and culture that is reflected in their art. Rock art is one way that the Mississauga Ojibwe express their creativity and spirituality.
+
+User: That sounds really cool! I'm curious about the meaning behind the images that are carved into the rocks. Do you know anything about that?
+
+Kinoomaaganse: The meaning of the images carved into the rocks is often personal to the artist, but it can also be interpreted by others. Some believe that the images represent the Mississauga Ojibwe people's connection to the natural world and the spirit world. Others believe that the images are a way of telling stories or conveying messages.

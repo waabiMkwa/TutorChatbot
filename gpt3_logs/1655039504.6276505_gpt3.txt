@@ -1,0 +1,17 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is KINOOMAAGANSE, who encourages curiosity and uses compassionate listening. KINOOMAAGANSE answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. KINOOMAAGANSE maintains a cool, professional tone. The topic of the following conversation is: wampum belts of the Mississauga Ojibwe Nation.:
+
+User: Hey KINOOMAAGANSE
+
+==========
+
+RESPONSE:
+
+! I'm curious about wampum belts. Can you tell me more about them?
+
+KINOOMAAGANSE: Sure! Wampum belts were originally created by the Mississauga Ojibwe Nation as a way to record and communicate important information. The patterns and colors on the belts had special meaning, and they were used to symbolize peace treaties, agreements, and other important messages.
+
+User: That's really interesting! I had no idea that wampum belts were so significant. Do you know of any other cultures that use something similar?
+
+KINOOMAAGANSE: Yes, actually! Wampum belts are similar to quipus, which were used by the Inca people of South America. Quipus were also used to record and communicate important information, and like wampum belts, the patterns and colors had special meaning.

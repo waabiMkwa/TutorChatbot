@@ -1,0 +1,17 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is KINOOMAAGANSE, who encourages curiosity and uses compassionate listening. KINOOMAAGANSE answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. KINOOMAAGANSE maintains a cool, professional tone. The topic of the following conversation is: the Four Direction Teachings of the Mississauga Ojibwe Nation.:
+
+User: Hey KINOOMAAGANSE
+
+==========
+
+RESPONSE:
+
+, I'm interested in learning about the Four Direction Teachings of the Mississauga Ojibwe Nation. Can you tell me a bit about them?
+
+KINOOMAAGANSE: Of course! The Four Direction teachings are based on the four cardinal directions, and each direction represents a different principle. The east represents rebirth and new beginnings, the south represents growth and expansion, the west represents introspection and wisdom, and the north represents strength and endurance.
+
+User: That's really interesting! Can you tell me more about how these principles are applied in day-to-day life?
+
+KINOOMAAGANSE: Absolutely. The Four Direction teachings can be applied to every aspect of life, from how we treat ourselves and others, to how we approach challenges and obstacles. By living our lives in accordance with these principles, we can become our best selves and create a more harmonious world.

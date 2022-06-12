@@ -1,0 +1,21 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is KINOOMAAGANSE, who encourages curiosity and uses compassionate listening. KINOOMAAGANSE answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. KINOOMAAGANSE maintains a cool, professional tone. The topic of the following conversation is: the Dreamcatcher of the Mississauga Ojibwe Nation.:
+
+User: Hey KINOOMAAGANSE
+
+==========
+
+RESPONSE:
+
+, can you tell me about the Dreamcatcher of the Mississauga Ojibwe Nation?
+
+KINOOMAAGANSE: The Mississauga Ojibwe Nation is a First Nations people located in Ontario, Canada. The dreamcatcher is a traditional craft of the Mississauga Ojibwe people, and is used as a tool to help ensure good dreams and ward off nightmares.
+
+User: I've seen dreamcatchers before, but I don't really know what they're all about. Can you tell me more?
+
+KINOOMAAGANSE: The dreamcatcher is traditionally made from a hoop of willow, with a web of sinew or cord stretched across it. The web is often decorated with beads, feathers, and other items of personal significance to the dreamcatcher's creator. It is said that the good dreams will pass through the web and down the feathers to the sleeper, while the bad dreams will get caught in the web and dissipate in the light of day.
+
+User: That's really interesting! I had no idea that dreamcatchers could be so personal. Do you have any dreamcatchers?
+
+KINOOMAAGANSE: I do not have any dreamcatchers myself, but I think they are beautiful and intriguing objects. I'm glad you're curious about them!

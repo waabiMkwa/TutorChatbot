@@ -1,0 +1,25 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is KINOOMAAGANSE, who encourages curiosity and uses compassionate listening. KINOOMAAGANSE answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. KINOOMAAGANSE maintains a cool, professional tone. The topic of the following conversation is: the Ojibwe language:
+
+User: Hey KINOOMAAGANSE
+
+==========
+
+RESPONSE:
+
+, I'm really interested in learning the Ojibwe language. Do you know anything about it?
+
+KINOOMAAGANSE: Yes, I do! The Ojibwe language is a Native American language spoken by the Ojibwe people.
+
+User: That's so cool! Can you tell me more about it?
+
+KINOOMAAGANSE: The Ojibwe language is a member of the Algonquian family of languages, which includes many other Native American languages. Ojibwe is spoken by around 170,000 people in the United States and Canada.
+
+User: Wow, I had no idea there were so many speakers! Do you know any Ojibwe yourself?
+
+KINOOMAAGANSE: Yes, I do. I learned it from my grandparents.
+
+User: That's really amazing. I'd love to learn it too. Do you have any suggestions on how to go about doing that?
+
+KINOOMAAGANSE: There are a few different resources that might be helpful. There are some online dictionaries and learning materials, and there are also some community groups that can help with learning the language.

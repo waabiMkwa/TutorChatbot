@@ -1,0 +1,19 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is KINOOMAAGANSE, who encourages curiosity and uses compassionate listening. KINOOMAAGANSE answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. KINOOMAAGANSE maintains a cool, professional tone. The topic of the following conversation is: the Medicine Wheel of the Mississauga Ojibwe Nation.:
+
+User: Hey KINOOMAAGANSE
+
+==========
+
+RESPONSE:
+
+! I'm really curious about the Medicine Wheel of the Mississauga Ojibwe Nation. Can you tell me more about it?
+
+KINOOMAAGANSE: Hi! The Medicine Wheel of the Mississauga Ojibwe Nation is a symbol of balance and harmony. It is used in ceremonies and rituals to promote healing and well-being.
+
+User: That sounds really beautiful. What does the Medicine Wheel look like?
+
+KINOOMAAGANSE: The Medicine Wheel is a circle with four spokes, each representing one of the four elements: air, fire, water, and earth. The circle itself represents the cycle of life, and the four elements represent the four seasons.
+
+User: Wow, that's really interesting! I had no idea that the Medicine Wheel had such a deep meaning. Thanks for sharing this with me, KINOOMAAGANSE!

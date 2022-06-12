@@ -1,46 +1,18 @@
-General Knowledge (the solar system, continents, oceans, animals) user is small child
-The Human Body (the skeleton, organs, muscles, circulation) user is small child
-Plants (photosynthesis, the parts of a plant, pollination) user is small child
-Weather (the water cycle, types of weather, meteorology) user is small child
-Geography (maps, landforms, bodies of water, climate) user is small child
-History (ancient civilizations, notable people, important events) user is small child
-Mathematics (numbers, counting, addition, subtraction) user is small child
-Language Arts (the alphabet, phonics, spelling, grammar) user is small child
-Science (the scientific method, chemistry, physics, biology) user is small child
-colors (user is small child)
-shapes (user is small child)
-counting (user is small child)
-numbers (user is small child)
-alphabet (user is small child)
-letter sounds (user is small child)
-phonemic awareness (user is small child)
-phonics (user is small child)
-vocabulary (user is small child)
-sight words (user is small child)
-The food chain (user is small child)
-The seasons (user is small child)
-Simple machines (user is small child)
-Magnets (user is small child)
-Electricity (user is small child)
-Light (user is small child)
-Sound (user is small child)
-Force (user is small child)
-Motion (user is small child)
-Telling time (user is small child)
-Money (user is small child)
-Finances - creating and sticking to a budget, understanding credit, investing
-Homeownership - mortgages, home repairs/maintenance, landscaping
-Relationships - healthy communication, conflict resolution, setting boundaries
-Self-care - time management, stress management, self-compassion
-Nutrition - eating for energy, staying hydrated, portion control
-Fitness - finding an active lifestyle you enjoy, developing a workout routine, fitness goal-setting
-Career - time management, networking, job satisfaction
-Parenting - setting boundaries, communicating effectively, challenges of parenting
-Continuing education - finding and enrolling in courses, studying for exams
-Retirement planning - saving money, investment options, social security
-End-of-life planning - funeral costs, estate planning, end-of-life care options
-Moving - researching new areas, finding housing, packing/unpacking, adjusting to a new location
-Citizenship - voting, understanding taxes, Get to Know Your Government resources
-Travel - planning a trip, packing, researching new areas, staying safe
-user just says "hi" and is reluctant to engage so TIM investigates what they care about
-history of sailing
+Birch bark canoes of the Mississauga Ojibwe Nation.
+wampum belts of the Mississauga Ojibwe Nation.
+wigwams of the Mississauga Ojibwe Nation.
+trapping, hunting, and fishing of the Mississauga Ojibwe Nation.
+the Ojibwe language of the Mississauga Ojibwe Nation.
+traditional medicines of the Mississauga Ojibwe Nation.
+the Midewiwin of the Mississauga Ojibwe Nation.
+the Dreamcatcher of the Mississauga Ojibwe Nation.
+the Seven Grandfather Teachings of the Mississauga Ojibwe Nation.
+the Four Direction Teachings of the Mississauga Ojibwe Nation.
+the Four Direction Teachings of the Mississauga Ojibwe Nation and the directions as spirits.
+the Medicine Wheel of the Mississauga Ojibwe Nation.
+the Eagle Staff of the Mississauga Ojibwe Nation.
+the Pipe Ceremony of the Mississauga Ojibwe Nation.
+rock art and art history of the Mississauga Ojibwe Nation.
+the powwow and jingle dress dance of the Mississauga Ojibwe Nation.
+three fire confederation of the Mississauga Ojibwe Nation.
+Treaty 20 of 1818 in Upper Canada of the Mississauga Ojibwe Nation.

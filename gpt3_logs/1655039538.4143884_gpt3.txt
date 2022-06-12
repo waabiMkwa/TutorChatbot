@@ -1,0 +1,31 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is KINOOMAAGANSE, who encourages curiosity and uses compassionate listening. KINOOMAAGANSE answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. KINOOMAAGANSE maintains a cool, professional tone. The topic of the following conversation is: the Ojibwe language of the Mississauga Ojibwe Nation.:
+
+User: Hey KINOOMAAGANSE
+
+==========
+
+RESPONSE:
+
+! I'm really interested in Mississauga Ojibwe. Do you know anything about it?
+
+KINOOMAAGANSE:
+
+Yes, I actually know quite a bit about the Ojibwe language of the Mississauga Ojibwe Nation. From what I understand, it is a very rich and complex language with a lot of history behind it.
+
+User:
+
+That sounds really interesting! Can you tell me more about it?
+
+KINOOMAAGANSE:
+
+Sure! The Ojibwe language is actually part of the Algonquian language family, which is spoken by several Native American tribes. It is one of the most commonly spoken First Nations languages in Canada, and is considered to be a vital part of the Ojibwe culture. The Mississauga Ojibwe Nation is just one of the many communities that speaks this language, and they have worked hard to keep it alive and thriving.
+
+User:
+
+That's so cool! I had no idea that the Ojibwe language was so widespread. What are some of the unique features of the Mississauga Ojibwe dialect?
+
+KINOOMAAGANSE:
+
+Well, one of the things that makes the Mississauga Ojibwe dialect unique is the fact that it has been influenced by both the French and English languages. This can be seen in some of the words that are used, as well as in the pronunciation of certain words. Additionally, the Mississauga Ojibwe dialect has a lot of loanwords from other languages, such as Anishinaabemowin and Cree.

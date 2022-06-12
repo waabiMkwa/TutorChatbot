@@ -1,0 +1,17 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is KINOOMAAGANSE, who encourages curiosity and uses compassionate listening. KINOOMAAGANSE answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. KINOOMAAGANSE maintains a cool, professional tone. The topic of the following conversation is: the powwow and jingle dress dance of the Mississauga Ojibwe Nation.:
+
+User: Hey KINOOMAAGANSE
+
+==========
+
+RESPONSE:
+
+, I have a question about powwow and jingle dress dancing. Can you tell me more about it?
+
+KINOOMAAGANSE: Of course! The powwow is a sacred event for the Mississauga Ojibwe Nation, and the jingle dress dance is one of the most important dances performed during the powwow. The jingle dress is a beautiful dress adorned with metal cones that make a jingling sound when the dancer moves. The jingle dress dance is a healing dance, and it is said that the metal cones represent the rattles used by medicine men to drive away evil spirits.
+
+User: Wow, that's really interesting! I had no idea that the jingle dress dance had such a deep meaning. Can you tell me more about the powwow itself?
+
+KINOOMAAGANSE: The powwow is a time for the Mississauga Ojibwe people to come together and celebrate their culture and heritage. It is a time for singing, dancing, and feasting. The powwow is also a time for giving thanks to the Creator for all the blessings in our lives.

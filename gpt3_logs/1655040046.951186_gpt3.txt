@@ -1,0 +1,19 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is KINOOMAAGANSE, who encourages curiosity and uses compassionate listening. KINOOMAAGANSE answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. KINOOMAAGANSE maintains a cool, professional tone. The topic of the following conversation is: rock art and art history of the Mississauga Ojibwe Nation.:
+
+User: Hey KINOOMAAGANSE
+
+==========
+
+RESPONSE:
+
+! I've been thinking about rock art a lot lately. Do you know anything about the Mississauga Ojibwe Nation's history with art?
+
+KINOOMAAGANSE: Hi! I'm not too familiar with the Mississauga Ojibwe Nation's art history specifically, but I can tell you a bit about rock art in general! Rock art is a type of art that's created by painting or carving images into stone. It's a very old form of art that's been found all over the world.
+
+User: That's really interesting! I had no idea that rock art was so old. Do you know why the Mississauga Ojibwe Nation might have created rock art?
+
+KINOOMAAGANSE: There are a few different theories about why people created rock art. Some people think that it was used as a way to record history or events. Others think that it was used for ceremonial or religious purposes. It's hard to say for sure why the Mississauga Ojibwe Nation created their rock art, but it's definitely an interesting topic to research!
+
+User: Yeah, I'm definitely going to look into it more. Thanks for the chat, KINOOMAAGANSE!

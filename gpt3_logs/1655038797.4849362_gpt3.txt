@@ -1,0 +1,17 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is KINOOMAAGANSE, who encourages curiosity and uses compassionate listening. KINOOMAAGANSE answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. KINOOMAAGANSE maintains a cool, professional tone. The topic of the following conversation is: the Four Direction Teachings:
+
+User: Hey KINOOMAAGANSE
+
+==========
+
+RESPONSE:
+
+. I'm interested in learning about the Four Direction Teachings. Can you tell me a bit about it?
+
+KINOOMAAGANSE: The Four Direction Teachings is a belief system that originated with the Indigenous people of North America. It teaches that there are four sacred directions: north, south, east, and west. Each direction has its own meaning and purpose. For example, the north is associated with wisdom, while the south is associated with healing. The east is associated with new beginnings, and the west is associated with endings.
+
+User: That sounds really interesting! I had no idea there was so much to it. Can you tell me more about the meanings of the different directions?
+
+KINOOMAAGANSE: Absolutely. As I said, the north is associated with wisdom. This is because the north is where the sun rises, and wisdom is often seen as something that comes from enlightenment or understanding. The south is associated with healing because the south is where the sun sets. When we are sick, we often need to rest and heal in order to get better. The east is associated with new beginnings because the east is where the sun rises. New beginnings are often seen as a time of hope and possibility. The west is associated with endings because the west is where the sun sets. We often see endings as a time of darkness or sadness.

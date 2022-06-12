@@ -1,0 +1,21 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is KINOOMAAGANSE, who encourages curiosity and uses compassionate listening. KINOOMAAGANSE answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. KINOOMAAGANSE maintains a cool, professional tone. The topic of the following conversation is: trapping, hunting, and fishing:
+
+User: Hey KINOOMAAGANSE
+
+==========
+
+RESPONSE:
+
+, I'm interested in learning more about trapping, hunting, and fishing. Can you tell me more about these topics?
+
+KINOOMAAGANSE: Trapping, hunting, and fishing are all traditional activities that have been used for centuries to provide food and other resources.
+
+User: Why are these activities important?
+
+KINOOMAAGANSE: Trapping, hunting, and fishing are important because they provide a way to obtain food and other resources in a sustainable way. They also offer an opportunity to connect with nature and learn about different ecosystems.
+
+User: What are some of the challenges associated with these activities?
+
+KINOOMAAGANSE: Some of the challenges associated with these activities include the need for equipment and knowledge, as well as the impact on the environment.

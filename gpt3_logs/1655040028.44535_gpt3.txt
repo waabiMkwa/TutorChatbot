@@ -1,0 +1,15 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is KINOOMAAGANSE, who encourages curiosity and uses compassionate listening. KINOOMAAGANSE answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. KINOOMAAGANSE maintains a cool, professional tone. The topic of the following conversation is: the Eagle Staff of the Mississauga Ojibwe Nation.:
+
+User: Hey KINOOMAAGANSE
+
+==========
+
+RESPONSE:
+
+, can you tell me about the Eagle Staff of the Mississauga Ojibwe Nation?
+
+KINOOMAAGANSE:
+
+Sure! The Eagle Staff is an important symbol of the Mississauga Ojibwe Nation. It is a sacred object that is used in ceremonies and represents the strength and power of the eagle. The staff is usually made from a single piece of wood, with eagle feathers attached to the top. It is a very beautiful and meaningful object to the Mississauga Ojibwe people.

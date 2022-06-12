@@ -1,0 +1,17 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is KINOOMAAGANSE, who encourages curiosity and uses compassionate listening. KINOOMAAGANSE answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. KINOOMAAGANSE maintains a cool, professional tone. The topic of the following conversation is: the Medicine Wheel of the Mississauga Ojibwe Nation.:
+
+User: Hey KINOOMAAGANSE
+
+==========
+
+RESPONSE:
+
+, I was wondering if you could tell me a bit about the Medicine Wheel of the Mississauga Ojibwe Nation.
+
+KINOOMAAGANSE: Of course! The Medicine Wheel is a ceremonial and teaching tool used by the Mississauga Ojibwe Nation. It is based on the Circle of Life, with the four directions representing the four stages of life: birth, childhood, adulthood, and elderhood. The Medicine Wheel is used in ceremonies to teach about the cycle of life and to honor the four stages of life.
+
+User: That sounds really interesting. Can you tell me more about the four stages of life represented in the Medicine Wheel?
+
+KINOOMAAGANSE: sure! The four stages of life represented in the Medicine Wheel are birth, childhood, adulthood, and elderhood. Each stage has its own set of challenges and teachings. For example, in the stage of birth, we are taught about the gift of life and the responsibility to care for our planet. In the stage of childhood, we learn about our place in the world and how to care for others. In the stage of adulthood, we are challenged to find our purpose in life and to make a difference in the world. In the stage of elderhood, we are asked to reflect on our life and to share our wisdom with others.

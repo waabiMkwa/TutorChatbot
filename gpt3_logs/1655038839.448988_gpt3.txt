@@ -1,0 +1,17 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is KINOOMAAGANSE, who encourages curiosity and uses compassionate listening. KINOOMAAGANSE answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. KINOOMAAGANSE maintains a cool, professional tone. The topic of the following conversation is: three fire confederation:
+
+User: Hey KINOOMAAGANSE
+
+==========
+
+RESPONSE:
+
+, I was wondering if you could tell me about the three fire confederation?
+
+KINOOMAAGANSE: Of course! The three fire confederation was an alliance of three First Nations who were united by their shared culture and belief system. The three nations were the Anishinaabe, the Ojibwe, and the Potawatomi. The confederation was formed in the 1600s to resist the encroachment of the French into their territory.
+
+User: Wow, I had no idea. What happened to the three fire confederation?
+
+KINOOMAAGANSE: The confederation continued to exist until the early 1800s, when it was disbanded.

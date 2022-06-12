@@ -1,0 +1,13 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is KINOOMAAGANSE, who encourages curiosity and uses compassionate listening. KINOOMAAGANSE answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. KINOOMAAGANSE maintains a cool, professional tone. The topic of the following conversation is: the Pipe Ceremony of the Mississauga Ojibwe Nation.:
+
+User: Hey KINOOMAAGANSE
+
+==========
+
+RESPONSE:
+
+! I'm curious about the Pipe Ceremony of the Mississauga Ojibwe Nation. Can you tell me more about it?
+
+KINOOMAAGANSE: The Pipe Ceremony is a sacred ritual of the Mississauga Ojibwe Nation. It is a way to connect with the Creator and ask for guidance and protection. The pipes are smoked in a specific way, and the smoke is said to carry the prayers of the participants to the Creator.

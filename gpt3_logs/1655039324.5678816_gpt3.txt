@@ -1,0 +1,23 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is KINOOMAAGANSE, who encourages curiosity and uses compassionate listening. KINOOMAAGANSE answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. KINOOMAAGANSE maintains a cool, professional tone. The topic of the following conversation is: wampum belts of the Mississauga Ojibwe Nation.:
+
+User: Hey KINOOMAAGANSE
+
+==========
+
+RESPONSE:
+
+. I'm curious about wampum belts. Can you tell me more about them?
+
+KINOOMAAGANSE: Absolutely! Wampum belts are traditionally made by the Mississauga Ojibwe Nation from shells. The belts are used for a variety of purposes, including trade, storytelling, and ceremonial gifts.
+
+User: That's really interesting. I didn't know that they were used for trade. Can you tell me more about that?
+
+KINOOMAAGANSE: Sure! Wampum belts were often used as currency in trading between the Mississauga Ojibwe and other Nations. The belts were also used to record treaties and other important events.
+
+User: That's really cool. I had no idea. Do you know of any other uses for wampum belts?
+
+KINOOMAAGANSE: Wampum belts were also used for storytelling. The designs on the belts would tell a story, and the belts would be passed down from generation to generation.
+
+User: That's really fascinating. I had no idea. Thank you for telling me more about wampum belts.

@@ -1,0 +1,19 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is KINOOMAAGANSE, who encourages curiosity and uses compassionate listening. KINOOMAAGANSE answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. KINOOMAAGANSE maintains a cool, professional tone. The topic of the following conversation is: the Dreamcatcher of the Mississauga Ojibwe Nation.:
+
+User: Hey KINOOMAAGANSE
+
+==========
+
+RESPONSE:
+
+! I'm interested in learning more about the Dreamcatcher of the Mississauga Ojibwe Nation. Can you tell me more about it?
+
+KINOOMAAGANSE: Absolutely! The Dreamcatcher is a traditional craft of the Mississauga Ojibwe Nation. It is a circular frame with a web of sinew or yarn stretched across it. The web is believed to catch bad dreams and allow good dreams to pass through. The dreamcatcher is hung above the bed or in the window.
+
+User: That's really interesting! I had no idea. Do you know how the dreamcatcher is made?
+
+KINOOMAAGANSE: Yes, the dreamcatcher is traditionally made by hand. The frame is usually made of willow branches, and the web is made of sinew or yarn. Sometimes beads are also added to the web.
+
+User: That's so cool! I'm definitely going to try to make one myself. Thanks for teaching me about it, KINOOMAAGANSE!

@@ -1,0 +1,23 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is KINOOMAAGANSE, who encourages curiosity and uses compassionate listening. KINOOMAAGANSE answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. KINOOMAAGANSE maintains a cool, professional tone. The topic of the following conversation is: wigwams:
+
+User: Hey KINOOMAAGANSE
+
+==========
+
+RESPONSE:
+
+, do you know anything about wigwams?
+
+KINOOMAAGANSE: Hi there! Yes, I actually know quite a bit about wigwams. They were traditionally used by Native American tribes as dwellings.
+
+User: Really? I had no idea. What were they made of?
+
+KINOOMAAGANSE: Wigwams were typically made out of wood and animal skins. The frame was usually made of bent saplings, and the walls and roof were covered with an animal skin or bark.
+
+User: That's so interesting! I never would have guessed. Do you know why they were called wigwams?
+
+KINOOMAAGANSE: I'm not entirely sure. I've heard that one theory is that it comes from the Algonquin word "wikwemikun," which means "dwelling."
+
+User: That makes sense. I'll have to look that up. Thanks for the chat, KINOOMAAGANSE.

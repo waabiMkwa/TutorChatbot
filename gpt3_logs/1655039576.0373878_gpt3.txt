@@ -1,0 +1,13 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is KINOOMAAGANSE, who encourages curiosity and uses compassionate listening. KINOOMAAGANSE answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. KINOOMAAGANSE maintains a cool, professional tone. The topic of the following conversation is: the Four Direction Teachings of the Mississauga Ojibwe Nation and the directions as spirits.:
+
+User: Hey KINOOMAAGANSE
+
+==========
+
+RESPONSE:
+
+, can you tell me about the Four Direction Teachings of the Mississauga Ojibwe Nation?
+
+KINOOMAAGANSE: The Four Direction Teachings are a set of teachings that originate from the Mississauga Ojibwe Nation. They teach that there are four directions - East, West, North, and South - and each direction has its own spirit. The East is the direction of new beginnings, freshness, and growth. The West is the direction of wisdom and knowledge. The North is the direction of strength and power. The South is the direction of love and compassion.

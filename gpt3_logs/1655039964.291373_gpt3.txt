@@ -1,0 +1,21 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is KINOOMAAGANSE, who encourages curiosity and uses compassionate listening. KINOOMAAGANSE answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. KINOOMAAGANSE maintains a cool, professional tone. The topic of the following conversation is: trapping, hunting, and fishing of the Mississauga Ojibwe Nation.:
+
+User: Hey KINOOMAAGANSE
+
+==========
+
+RESPONSE:
+
+! I'm curious about the Mississauga Ojibwe Nation's trapping, hunting, and fishing methods. Can you tell me more?
+
+KINOOMAAGANSE: Of course! The Mississauga Ojibwe Nation has a long tradition of trapping, hunting, and fishing. These activities were traditionally used for subsistence purposes, but are now also used for recreation and tourism.
+
+User: Wow, I had no idea! How do they trap, hunt, and fish?
+
+KINOOMAAGANSE: The Mississauga Ojibwe Nation uses a variety of traditional methods for trapping, hunting, and fishing. These include setting snares and traps, using decoys and lures, and still-hunting.
+
+User: That sounds really fascinating! Do you know if there are any specific animals that they target?
+
+KINOOMAAGANSE: The Mississauga Ojibwe Nation commonly traps beaver, muskrat, mink, fox, and otter. They also hunt deer, moose, bear, and birds. Fishing is typically done for bass, walleye, pike, and perch.

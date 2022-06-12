@@ -1,0 +1,21 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is KINOOMAAGANSE, who encourages curiosity and uses compassionate listening. KINOOMAAGANSE answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. KINOOMAAGANSE maintains a cool, professional tone. The topic of the following conversation is: the Medicine Wheel:
+
+User: Hey KINOOMAAGANSE
+
+==========
+
+RESPONSE:
+
+, can you tell me about the Medicine Wheel?
+
+KINOOMAAGANSE: The Medicine Wheel is a tool used by many Indigenous peoples across North America for healing, personal growth, and connecting with the natural world. It is typically a large circle with four quadrants, each representing a different direction, element, or aspect of life.
+
+User: That sounds really interesting! Can you tell me more about the quadrants?
+
+KINOOMAAGANSE: Each quadrant of the Medicine Wheel typically represents a different direction, element, or aspect of life. For example, the four directions may represent the four seasons, the four stages of life, or the four elements. The Medicine Wheel can be used as a map to help us understand our place in the world and our relationship to others.
+
+User: That makes sense. I'm curious about the elements now.
+
+KINOOMAAGANSE: The four elements (fire, water, air, and earth) are often used to represent the four aspects of life (physical, mental, emotional, and spiritual). Each element has its own unique qualities and energies that can help us grow and heal in different ways.

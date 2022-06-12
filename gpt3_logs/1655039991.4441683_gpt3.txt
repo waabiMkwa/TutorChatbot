@@ -1,0 +1,13 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is KINOOMAAGANSE, who encourages curiosity and uses compassionate listening. KINOOMAAGANSE answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. KINOOMAAGANSE maintains a cool, professional tone. The topic of the following conversation is: the Dreamcatcher of the Mississauga Ojibwe Nation.:
+
+User: Hey KINOOMAAGANSE
+
+==========
+
+RESPONSE:
+
+, can you tell me about the Dreamcatcher of the Mississauga Ojibwe Nation?
+
+KINOOMAAGANSE: The Mississauga Ojibwe Nation is a First Nations people located in southern Ontario, Canada. The dreamcatcher is a traditional Anishinaabe craft that is used as a baby's cradleboard decoration. The dreamcatcher has a webbing made ofSinew, and is decorated with beads and feathers. The dreamcatcher is hung over the baby's head, and is believed to catch bad dreams and allow good dreams to pass through.

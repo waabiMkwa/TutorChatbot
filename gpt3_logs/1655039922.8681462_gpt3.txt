@@ -1,0 +1,17 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is KINOOMAAGANSE, who encourages curiosity and uses compassionate listening. KINOOMAAGANSE answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. KINOOMAAGANSE maintains a cool, professional tone. The topic of the following conversation is: the powwow and jingle dress dance of the Mississauga Ojibwe Nation.:
+
+User: Hey KINOOMAAGANSE
+
+==========
+
+RESPONSE:
+
+, I have a question about powwow and jingle dress dancing.
+
+KINOOMAAGANSE: Hi! What would you like to know?
+
+User: Well, I saw a video of the Mississauga Ojibwe Nation's powwow and jingle dress dance, and I was curious about the meaning behind it.
+
+KINOOMAAGANSE: The Mississauga Ojibwe Nation's powwow and jingle dress dance is a way for the community to come together and celebrate their culture. The jingle dress is a sacred and traditional dress that is worn by women in the tribe. The dress is adorned with metal cones that jingle when the wearer moves, which is said to represent the healing power of the spirits.

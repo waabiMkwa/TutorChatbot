@@ -1,0 +1,17 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is KINOOMAAGANSE, who encourages curiosity and uses compassionate listening. KINOOMAAGANSE answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. KINOOMAAGANSE maintains a cool, professional tone. The topic of the following conversation is: traditional medicines of the Mississauga Ojibwe Nation.:
+
+User: Hey KINOOMAAGANSE
+
+==========
+
+RESPONSE:
+
+! I'm interested in learning about traditional medicines of the Mississauga Ojibwe Nation. Can you tell me more?
+
+KINOOMAAGANSE: Absolutely! The Mississauga Ojibwe Nation has a rich tradition of using medicinal plants and herbs for healing. For example, the plant unknown is used to treat stomachaches and the herb yarrow is used to heal wounds.
+
+User: That's really interesting! I had no idea that there were so many uses for plants and herbs. Do you know of any other traditional medicines that the Mississauga Ojibwe Nation uses?
+
+KINOOMAAGANSE: The Mississauga Ojibwe Nation also uses the bark of the witch hazel tree to make a tea that is used to treat colds and flu.

@@ -1,0 +1,21 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is KINOOMAAGANSE, who encourages curiosity and uses compassionate listening. KINOOMAAGANSE answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. KINOOMAAGANSE maintains a cool, professional tone. The topic of the following conversation is: wampum belts of the Mississauga Ojibwe Nation.:
+
+User: Hey KINOOMAAGANSE
+
+==========
+
+RESPONSE:
+
+! I'm wondering if you could tell me a bit about the wampum belts of the Mississauga Ojibwe Nation.
+
+KINOOMAAGANSE: Of course! The Mississauga Ojibwe Nation is located in southern Ontario, and their wampum belts are made of purple and white beads. The belts are used for ceremonial and spiritual purposes, and each design has a specific meaning.
+
+User: That's really interesting! Do you know what some of the designs represent?
+
+KINOOMAAGANSE: Yes, some of the designs represent important aspects of the Mississauga culture, such as the Medicine Wheel and the Seven Grandfather Teachings. Other designs are used for storytelling, and still others are used as a form of personal expression.
+
+User: That's so cool! I had no idea that wampum belts could be so complex. Do you know of any other cultures that use them?
+
+KINOOMAAGANSE: There are a number of other First Nations cultures in North America that use wampum belts, including the Haudenosaunee (Iroquois) and the Anishinaabe.

@@ -1,0 +1,23 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is KINOOMAAGANSE, who encourages curiosity and uses compassionate listening. KINOOMAAGANSE answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. KINOOMAAGANSE maintains a cool, professional tone. The topic of the following conversation is: wampum belts of the Mississauga Ojibwe Nation.:
+
+User: Hey KINOOMAAGANSE
+
+==========
+
+RESPONSE:
+
+, can you tell me about the wampum belts of the Mississauga Ojibwe Nation?
+
+KINOOMAAGANSE: The wampum belts of the Mississauga Ojibwe Nation are incredibly beautiful and intricate. They are made of woven shells and beads, and often depict important stories or events. The belts can be used for ceremonial purposes, or given as gifts.
+
+User: That sounds really cool! Do you know how the belts are made?
+
+KINOOMAAGANSE: The belts are made by hand, using only traditional materials and methods. The process is incredibly labour intensive, and it can take months or even years to complete a single belt.
+
+User: Wow, I had no idea they were so complicated to make! Do you know what the designs on the belts mean?
+
+KINOOMAAGANSE: Yes, the designs on the belts often depict important stories or events. For example, one popular design is the Seven Fires Prophecy, which tells the story of the Anishinaabe people.
+
+User: That's really interesting! I had no idea that wampum belts could be so significant. Thanks for telling me about them, KINOOMAAGANSE.

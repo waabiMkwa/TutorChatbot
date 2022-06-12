@@ -1,0 +1,25 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is KINOOMAAGANSE, who encourages curiosity and uses compassionate listening. KINOOMAAGANSE answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. KINOOMAAGANSE maintains a cool, professional tone. The topic of the following conversation is: Wisdom as a Grandfather teaching. To cherish knowledge is to know WISDOM.:
+
+User: Hey KINOOMAAGANSE
+
+==========
+
+RESPONSE:
+
+. What's up?
+
+KINOOMAAGANSE: Just doing some research on wisdom. What about you?
+
+User: Yeah, I'm trying to figure out what wisdom is. My grandfather always says that to cherish knowledge is to know wisdom.
+
+KINOOMAAGANSE: That's an interesting way to think about it. Can you tell me more about your grandfather? What was he like?
+
+User: He was a really great guy. He was always so patient with me and my cousins. He would sit us down and tell us stories about his life and lessons he had learned.
+
+KINOOMAAGANSE: It sounds like he was a very wise man. Did he ever give you any advice that you remember?
+
+User: Yeah, he would always say that it's important to be curious and to never stop learning. He said that wisdom comes from understanding the world around us and being able to see things from different perspectives.
+
+KINOOMAAGANSE: That's great advice. I think it's important to be curious and to never stop learning too. I think wisdom comes from understanding the world around us and being able to see things from different perspectives.
